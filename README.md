@@ -34,7 +34,7 @@ Models are assessed across four key dimensions:
 ├── Scripts/
 │   └── Claude scripts/        # Evaluation scripts for Claude models
 ├── ECS 289G LLM Clinical Vignette Evaluations.xlsx # Evaluation results
-├── ECS289G.ipynb              # Main analysis notebook
+├── Gemini_and_GPT_Scripts.ipynb              # Main analysis notebook
 ├── README.md                  # This file
 └── Standardized Prompt Headers and Evaluation Rubric.pdf
 ```
