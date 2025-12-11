@@ -1,0 +1,702 @@
+[
+    {
+        "case_id": "CV_001",
+        "original_question": "A 9-year-old girl is brought to the pediatrician for a wellness checkup. The girl's past medical history is non-contributory, and she has met all her developmental milestones. Her parents were recently called into the office as the girl was found touching the genitals of one of her classmates. She was trying to insert a toy into her classmate's genitals. The girl is asked what has happened and what she thinks is going on but she is too shy to reply to the physician. The girl and her mother recently moved in with a family member. They live in low-income housing subsidized by the government and are currently on food stamps. The mother states that her daughter has been particularly argumentative lately and that they have gotten into arguments in which her daughter screamed at her and locked herself in the bathroom. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Adjustment disorder",
+            "B": "Attention deficit hyperactivity disorder",
+            "C": "Normal variant of development",
+            "D": "Precocious puberty",
+            "E": "Sexual abuse"
+        },
+        "original_answer": "Sexual abuse",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: The child's sexualized behavior (touching classmate's genitals, attempting penetration with a toy) is age-inappropriate and highly concerning for sexual abuse. This is particularly significant given the recent move to live with a family member, creating a new exposure risk. While increased conflict with parents can occur normally, the combination of inappropriate sexual knowledge/behavior in a 9-year-old is a red flag requiring immediate investigation for abuse.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_002",
+        "original_question": "An obese 50-year-old woman presents to the emergency department of a rural hospital due to chest pain for the last 12 hours. The pain is substernal, crushing in nature, radiating into her neck, and accompanied by profuse sweating. Her history is significant for hypertension, and she admits poor compliance with her medications. An ECG done at the clinic confirmed the presence of STEMI, and the patient was given aspirin. The ambulance was in an accident on the way to the hospital and by the time the patient reached the angiography suite, the cardiologist decided intervention should be delayed due to the late presentation. Also, the patient’s pain has improved. The patient is admitted and is stable for 3 nights with no dyspnea or edema. Her blood pressure is kept under control while in the hospital. On the fourth night, the patient becomes quite agitated and soon thereafter she is unresponsive. Her pulse cannot be palpated. She has an elevated JVP and upon auscultation, heart sounds are distant. What is the most likely diagnosis for this patient?",
+        "original_options": {
+            "A": "Acute pericarditis",
+            "B": "Ventricular septal rupture",
+            "C": "Left ventricular free wall rupture",
+            "D": "Papillary muscle rupture",
+            "E": "Pulmonary embolism"
+        },
+        "original_answer": "Left ventricular free wall rupture",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The patient presents with a late complication of STEMI (day 4 post-infarction). The sudden deterioration with elevated JVP, distant heart sounds, and pulselessness suggests cardiac tamponade from left ventricular free wall rupture. This typically occurs 3-5 days post-MI when the necrotic myocardium is weakest, leading to hemopericardium and obstructive shock.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_003",
+        "original_question": "A 6-year-old boy is brought to the physician because of inability to concentrate and difficulties completing assignments at school. His mother says that he frequently interrupts others during conversations at home and that his teachers often reprimand him for talking excessively in school. He refuses to play with the other children and often has physical altercations with his classmates. He can jump up and down but he cannot hop on one foot. He eats without assistance but has difficulty using silverware. He cannot follow three-step directions. There is no family history of serious illness. Examination shows a small head, wide-spaced eyes, and short palpebral fissures. His upper lip is thin and flat. He has a sunken nasal bridge and a small jaw. There is a 3/6 pansystolic murmur heard along the left lower sternal border. Which of the following is the most likely cause of these findings?",
+        "original_options": {
+            "A": "Nondisjunction of chromosome 21",
+            "B": "Deletion of long arm of chromosome 7",
+            "C": "Prenatal alcohol exposure",
+            "D": "FMR1 gene mutation",
+            "E": "Maternal intake of phenytoin"
+        },
+        "original_answer": "Prenatal alcohol exposure",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The clinical presentation includes characteristic facial features (thin upper lip, smooth philtrum, short palpebral fissures, small jaw, sunken nasal bridge), microcephaly, cardiac defect (VSD suggested by pansystolic murmur), developmental delays, behavioral problems, and fine motor difficulties. This constellation is classic for fetal alcohol syndrome (FAS), caused by prenatal alcohol exposure.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_004",
+        "original_question": "A 57-year-old man presents with 2 days of severe, generalized, abdominal pain that is worse after meals. He is also nauseated and reports occasional diarrhea mixed with blood. Apart from essential hypertension, his medical history is unremarkable. His vital signs include a temperature of 36.9°C (98.4°F), blood pressure of 145/92 mm Hg, and an irregularly irregular pulse of 105/min. Physical examination is only notable for mild periumbilical tenderness. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Acute pancreatitis",
+            "B": "Crohn's disease",
+            "C": "Acute mesenteric ischemia",
+            "D": "Diverticular disease",
+            "E": "Gastroenteritis"
+        },
+        "original_answer": "Acute mesenteric ischemia",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The key features are an irregularly irregular pulse (atrial fibrillation), severe abdominal pain out of proportion to physical exam findings (mild periumbilical tenderness), and bloody diarrhea in an older patient. This classic triad strongly suggests acute mesenteric ischemia, likely from an embolic event secondary to atrial fibrillation.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_005",
+        "original_question": "A 5-year-old male is brought to the pediatrician by his mother, who relates a primary complaint of a recent history of five independent episodes of vomiting over the last 10 months, most recently 3 weeks ago. Each time, he has awoken early in the morning appearing pale, feverish, lethargic, and complaining of severe nausea. This is followed by 8-12 episodes of non-bilious vomiting over the next 24 hours. Between these episodes he returns to normal activity. He has no significant past medical history and takes no other medications. Review of systems is negative for changes in vision, gait disturbance, or blood in his stool. His family history is significant only for migraine headaches. Vital signs and physical examination are within normal limits. Initial complete blood count, comprehensive metabolic panel, and abdominal radiograph were unremarkable. What is the most likely diagnosis?",
+        "original_options": {
+            "A": "Reye's syndrome",
+            "B": "Intracranial mass",
+            "C": "Cyclic vomiting syndrome",
+            "D": "Gastroesophageal reflux",
+            "E": "Intussusception"
+        },
+        "original_answer": "Cyclic vomiting syndrome",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: This child presents with stereotypical recurrent episodes of severe vomiting separated by symptom-free intervals, occurring early morning with associated symptoms (pallor, lethargy, nausea), lasting ~24 hours, with complete return to baseline between episodes. The family history of migraines and negative workup strongly support cyclic vomiting syndrome, which is associated with migraine disorders.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_006",
+        "original_question": "A 45-year-old man comes to the emergency department with the complaint of pain and swelling of the proximal joint in the third finger of his right hand. The pain is so severe that it woke him up from sleep this morning. He has never had an episode like this before. The patient has smoked a pack of cigarettes daily for the last 25 years and drinks alcohol heavily each weekend. His friend threw a party last night where he drank 3–4 beers and was unable to drive back home. He has no past medical illness. His mother died of pancreatic cancer at age 55, and his father died of a stroke 2 years ago. His temperature is 37.7°C (100°F), blood pressure is 130/70 mm Hg, pulse is 104/min, respiratory rate is 20/min, and BMI is 25 kg/m2. The patient is in moderate distress due to the pain. On examination, the proximal interphalangeal joint of the third finger of his right hand is very tender to touch, swollen, warm, and slightly red in color. Range of motion cannot be assessed due to extreme tenderness. The patient’s right hand is shown in the image.\nLaboratory investigation\nComplete blood count:\nHemoglobin 14.5 g/dL\nLeukocytes 16,000/mm3\nPlatelets 150,000/mm3\nESR     55mm/hr\nSynovial fluid is aspirated from the joint. The findings are:\nAppearance Cloudy, dense yellow\nWBC 30,000 cells/µL\nCulture Negative\nNegatively birefringent needle-shaped crystals are seen. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Pseudogout",
+            "B": "Chronic gout",
+            "C": "Septic arthritis",
+            "D": "Acute gout",
+            "E": "Reactive arthritis"
+        },
+        "original_answer": "Acute gout",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The patient presents with acute monoarticular arthritis of a PIP joint with synovial fluid showing negatively birefringent needle-shaped crystals, which are pathognomonic for monosodium urate crystals in gout. The acute onset, severe pain waking him from sleep, and recent alcohol consumption (a known trigger) are classic for an acute gout attack. While the PIP joint is less commonly affected than the first MTP joint, it can still be involved in acute gout.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_007",
+        "original_question": "A 61-year-old man comes to the physician because of fatigue, diarrhea, and crampy abdominal pain for 3 weeks. The abdominal pain is worse after eating. During the past week, he has had up to 4 watery stools daily. He has also had pain in his mouth and gums for 6 days. He has not had nausea, vomiting, or fever. Four months ago, he went on a 1-week trip to the Dominican Republic. He has atrial fibrillation, hypertension, and hypothyroidism. Current medications include levothyroxine, metoprolol, and warfarin. He has smoked one pack of cigarettes daily for 40 years. His temperature is 37.9°C (100.2°F), pulse is 81/min, and blood pressure is 120/75 mm Hg. Examination shows two 1-cm, tender ulcerative lesions in the mouth. Abdominal examination shows mild tenderness to palpation in the right lower quadrant without guarding or rebound. Bowel sounds are normal. His hemoglobin concentration is 11.5 g/dL, mean corpuscular volume is 77 fL, leukocyte count is 11,800 mm3, and platelet count is 360,000 mm3. Colonoscopy with biopsy of the colonic mucosa is performed. Analysis of the specimen shows non-caseating granulomas and neutrophilic inflammation of the crypts. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Diverticulitis",
+            "B": "Tropical sprue",
+            "C": "Crohn disease",
+            "D": "Celiac disease",
+            "E": "Whipple disease"
+        },
+        "original_answer": "Crohn disease",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The patient presents with chronic diarrhea, abdominal pain, oral ulcers, and colonoscopy findings of non-caseating granulomas and crypt abscesses (neutrophilic inflammation of crypts). These findings are pathognomonic for Crohn disease. The microcytic anemia (MCV 77 fL) suggests chronic blood loss or malabsorption. While the travel history might suggest an infectious cause, the chronic course and histopathologic findings are classic for Crohn disease.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_008",
+        "original_question": "A 6-year-old boy is brought to the physician because he has a limp for 3 weeks. He was born at term and has been healthy since. His immunization are up-to-date; he received his 5th DTaP vaccine one month ago. He is at 50th percentile for height and weight. His temperature is 37°C (98.6°F), pulse is 80/min and respirations are 28/min. When asked to stand only on his right leg, the left pelvis sags. The remainder of the examination shows no abnormalities. Which of the following is the most likely cause of these findings?",
+        "original_options": {
+            "A": "L5 radiculopathy",
+            "B": "Damage to the left inferior gluteal nerve",
+            "C": "Spinal abscess",
+            "D": "Damage to the right common peroneal nerve",
+            "E": "Damage to the right superior gluteal nerve"
+        },
+        "original_answer": "Damage to the right superior gluteal nerve",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: The positive Trendelenburg sign (left pelvis sags when standing on right leg) indicates weakness of the right hip abductors (gluteus medius and minimus), which are innervated by the superior gluteal nerve. The nerve supplying the stance leg is affected—when standing on the right leg, the right hip abductors cannot stabilize the pelvis, causing the contralateral (left) side to drop.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_009",
+        "original_question": "A 3-year-old boy presents with fever, generalized fatigue, nausea, and progressive anemia. The patient’s mother says his condition was normal until one week ago when he started having flu-like symptoms such as fever, general fatigue, and abdominal discomfort. Past medical experience is significant for sickle cell disease, diagnosed 2 years ago. His vital signs include: blood pressure 98/50 mm Hg, pulse 120/min, temperature 39.0℃ (102.0℉). On physical examination, the patient is crying excessively and his skin and the conjunctivae look pale. Splenomegaly is noted. There is no skin rash nor lymphadenopathy. Laboratory findings are significant for the following:\nTotal WBC count 22,000/mm3\nNeutrophils 35%\nLymphocytes 44%\nAtypical lymphocytes 9%\nMonocytes 12%\nRBC 1. 6 million/mm3\nHb 5.4 g/dL\nHct 14.4%\nMCV 86 fL\nMCHC 37.5%\nReticulocytes 0.1%\nA peripheral blood smear shows sickle cells. A direct and indirect Coombs test is negative. Which of the following is the most likely cause of this patient’s most recent symptoms?",
+        "original_options": {
+            "A": "Parvovirus infection",
+            "B": "IgG-mediated hemolytic anemia",
+            "C": "Sickle cell disease",
+            "D": "Myelofibrosis",
+            "E": "Fanconi’s anemia"
+        },
+        "original_answer": "Parvovirus infection",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: This sickle cell patient presents with severe anemia (Hb 5.4 g/dL), markedly low reticulocytes (0.1%), and flu-like prodrome. The combination of sudden worsening anemia with reticulocytopenia in a sickle cell patient is classic for aplastic crisis caused by parvovirus B19 infection, which temporarily halts red cell production. The negative Coombs test excludes hemolytic anemia (option B).\n\nConfidence: 98%"
+    },
+    {
+        "case_id": "CV_010",
+        "original_question": "A 40-year-old woman comes to the emergency department because of difficulty walking for the past 4 hours. She first noticed her symptoms after getting up this morning and her foot dragging while walking. She feels tired. She has a history of chronic sinusitis. Six months ago, she was diagnosed with asthma. Current medications include an albuterol inhaler and inhaled corticosteroids. Her temperature is 38.9°C (102°F), pulse is 80/min, and her blood pressure is 140/90 mm Hg. Auscultation of her lungs shows diffuse wheezing over bilateral lung fields. Physical examination shows tender subcutaneous nodules on the extensor surfaces of the elbows. There are palpable, non-blanching erythematous lesions on both shins. Dorsiflexion of the right foot is impaired. Sensation to pinprick, light touch, and vibration is decreased over the ulnar aspect of the left forearm. Laboratory studies show:\nHemoglobin 11.3 g/dL\nLeukocyte count 24,500\nSegmented neutrophils 48%\nEosinophils 29%\nLymphocytes 19%\nMonocytes 4%\nPlatelet count 290,000/mm3\nSerum\nUrea nitrogen 32 mg/dL\nCreatinine 1.85 mg/dL\nUrine\nBlood 2+\nProtein 3+\nWhich of the following is the most likely diagnosis in this patient?\"",
+        "original_options": {
+            "A": "Granulomatosis with polyangiitis",
+            "B": "Goodpasture syndrome",
+            "C": "Henoch-Schönlein purpura",
+            "D": "Excessive glucocorticoid use",
+            "E": "Eosinophilic granulomatosis with polyangiitis\n\""
+        },
+        "original_answer": "Eosinophilic granulomatosis with polyangiitis\n\"",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: This patient presents with asthma, chronic sinusitis, eosinophilia (29%), mononeuritis multiplex (foot drop and ulnar nerve involvement), palpable purpura, subcutaneous nodules, and renal involvement (elevated creatinine, hematuria, proteinuria). This constellation of findings is classic for eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome), which characteristically affects patients with asthma and presents with peripheral eosinophilia and vasculitic manifestations.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_011",
+        "original_question": "A 64-year-old woman comes to the physician for a follow-up examination. She has had difficulty reading for the past 6 months. She tried using multiple over-the-counter glasses with different strengths, but they have not helped. She has hypertension and type 2 diabetes mellitus. Current medications include insulin and enalapril. Her temperature is 37.1°C (98.8°F), pulse is 80/min, and blood pressure is 126/84 mm Hg. The pupils are round and react sluggishly to light. Visual acuity in the left eye is 6/60 and in the right eye counting fingers at 6 feet. Fundoscopy shows pallor of the optic disc bilaterally. The cup-to-disk ratio is 0.7 in the left eye and 0.9 in the right eye (N = 0.3). Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Hypertensive retinopathy",
+            "B": "Age-related macular degeneration",
+            "C": "Diabetic retinopathy",
+            "D": "Open-angle glaucoma",
+            "E": "Optic neuritis\n\""
+        },
+        "original_answer": "Open-angle glaucoma",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The key findings are optic disc pallor with increased cup-to-disc ratios (0.7 and 0.9 vs normal 0.3), sluggish pupillary reactions, and progressive visual loss not corrected by glasses. These findings indicate optic nerve damage with cupping characteristic of glaucoma. The chronic progressive nature and bilateral involvement with increased cup-to-disc ratio point to open-angle glaucoma rather than other options.\n\nConfidence: 92%"
+    },
+    {
+        "case_id": "CV_012",
+        "original_question": "A 53-year-old male presents to your office for abdominal discomfort. The patient states he first noticed pain on his right flank several months ago, and it has been gradually getting worse. For the past week, he has also noticed blood in his urine. Prior to this episode, he has been healthy and does not take any medications. The patient denies fever, chills, and dysuria. He has a 40 pack-year smoking history. Vital signs are T 37 C, HR 140/90 mmHg, HR 84/min, RR 14/min, O2 98%. Physical exam is unremarkable. CBC reveals a hemoglobin of 17 and hematocrit of 51%, and urinalysis is positive for red blood cells, negative for leukocytes. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Renal cell carcinoma",
+            "B": "Polycystic kidney disease",
+            "C": "Abdominal aortic aneurysm",
+            "D": "Pyelonephritis",
+            "E": "Renal oncocytoma"
+        },
+        "original_answer": "Renal cell carcinoma",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The patient presents with a classic triad suggestive of renal cell carcinoma: flank pain, hematuria, and a parenchymal renal mass. Additionally, he has polycythemia (elevated hemoglobin/hematocrit), which can occur in RCC due to paraneoplastic erythropoietin production. His significant smoking history is a risk factor. The absence of infection signs rules out pyelonephritis, and the presentation doesn't fit polycystic kidney disease or AAA.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_013",
+        "original_question": "A 74-year-old woman presents to the clinic for evaluation of an erythematous and edematous skin rash on her right leg that has progressively worsened over the last 2 weeks. The medical history is significant for hypertension and diabetes mellitus type 2. She takes prescribed lisinopril and metformin. The vital signs include: blood pressure 152/92 mm Hg, heart rate 76/min, respiratory rate 12/min, and temperature 37.8°C (100.1°F). On physical exam, the patient appears alert and oriented. Observation of the lesion reveals a poorly demarcated region of erythema and edema along the anterior aspect of the right tibia. Within the region of erythema is a 2–3 millimeter linear break in the skin that does not reveal any serous or purulent discharge. Tenderness to palpation and warmth is associated with the lesion. There are no vesicles, pustules, papules, or nodules present. Ultrasound of the lower extremity is negative for deep vein thrombosis or skin abscess. The blood cultures are pending. Which of the following is the most likely diagnosis based on history and physical examination?",
+        "original_options": {
+            "A": "Erysipelas",
+            "B": "Cellulitis",
+            "C": "Irritant contact dermatitis",
+            "D": "Folliculitis",
+            "E": "Gas gangrene"
+        },
+        "original_answer": "Cellulitis",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: B\n\nReasoning: The patient presents with poorly demarcated erythema, edema, warmth, and tenderness on the right leg with a skin break, consistent with cellulitis. Erysipelas typically has well-demarcated, raised borders and involves more superficial layers. The absence of vesicles, pustules, or gas formation rules out folliculitis and gas gangrene. Contact dermatitis would be pruritic rather than tender and lacks the infectious features.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_014",
+        "original_question": "A 6-month-old boy presents to his pediatrician for a wellness examination. The mother reports that her child has difficulty rolling from his back to his front and sitting unsupported. The patient is able to smile and furrow his brow normally, but she has noticed that he has a weak cry and suck. He was born at 38 weeks gestation via a spontaneous vaginal delivery without any complications. The mother said that the patient appeared \"normal\" until the past few weeks. On physical exam, his extraocular muscle movements are intact, and a symmetric smile is seen. He has symmetric flaccid weakness of both his upper and lower extremities. He also has a bell-shaped chest. Deep tendon reflexes are diminished. Which of the following is the most likely cause of this patient's symptoms?",
+        "original_options": {
+            "A": "Anterior horn cell degeneration",
+            "B": "Axonal demyelination",
+            "C": "Decreased acetylcholine receptor density",
+            "D": "Impaired acetylcholine release",
+            "E": "Myonecrosis"
+        },
+        "original_answer": "Anterior horn cell degeneration",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: This 6-month-old presents with symmetric flaccid weakness, diminished deep tendon reflexes, weak cry/suck, bell-shaped chest, and normal facial/extraocular movements, with onset after appearing initially normal. This classic presentation suggests spinal muscular atrophy (SMA) Type I (Werdnig-Hoffmann disease), caused by degeneration of anterior horn cells in the spinal cord due to SMN1 gene mutations.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_015",
+        "original_question": "A 23-year-old man is brought to the emergency department by ambulance. The patient was found unconscious in his bedroom after a suicide attempt. The patient had cut his wrists using a kitchen knife. The patient is unresponsive and pale. His temperature is 96°F (35.6°C), blood pressure is 70/35 mmHg, pulse is 190/min, respirations are 19/min, and oxygen saturation is 92% on room air. Pressure is applied to his bilateral wrist lacerations. His Glasgow Coma Scale (GCS) is 7. A full trauma assessment is performed and reveals no other injuries. IV fluids are started as well as a rapid transfusion sequence. Norepinephrine is administered. Repeat vitals demonstrate that his blood pressure is 100/65 mmHg and pulse is 100/min. The patient is responsive and seems mildly confused. Resuscitation is continued and the patient's GCS improves to 15. Thirty minutes later, the patient's GCS is 11. His temperature is 103°F (39.4°C), blood pressure is 90/60 mmHg, pulse is 122/min, respirations are 22/min, and oxygen saturation is 99% on room air. The patient complains of flank pain. Laboratory values are ordered and demonstrate the following:\n\nHemoglobin: 9 g/dL\nHematocrit: 27%\nLeukocyte count: 10,500 cells/mm^3 with normal differential\nHaptoglobin: 11 mg/dL\nPlatelet count: 198,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 101 mEq/L\nK+: 4.4 mEq/L\nHCO3-: 23 mEq/L\nBUN: 27 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.5 mg/dL\nCa2+: 10.0 mg/dL\nBilirubin: 3.2 mg/dL\nAST: 22 U/L\nALT: 15 U/L\n\nWhich of the following describes the most likely diagnosis?",
+        "original_options": {
+            "A": "Non-cardiogenic acute lung injury",
+            "B": "Decreased IgA levels",
+            "C": "Major blood group incompatibility",
+            "D": "Minor blood group incompatibility",
+            "E": "Recipient antibody reaction against foreign leukocytes"
+        },
+        "original_answer": "Major blood group incompatibility",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The patient developed fever (103°F), hypotension, flank pain, and laboratory evidence of hemolysis (low haptoglobin, elevated bilirubin, decreased hemoglobin) approximately 30 minutes after massive transfusion. This acute hemolytic transfusion reaction with hemoglobinuria (flank pain suggests renal involvement) is most consistent with ABO (major blood group) incompatibility, which occurs immediately during or shortly after transfusion.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_016",
+        "original_question": "A 24-year-old woman presents to the emergency department with severe abdominal and lower back pain. She describes it as intense cramping and states that she experienced severe pain roughly 1 month ago that was similar. The patient's past medical history is non-contributory, and she states that her menses cause her to soak through 1 pad in a day. She is currently sexually active and does not use any contraception. Her vitals are within normal limits. The patient's abdominal exam is non-focal, and her pelvic exam reveals no adnexal masses or tenderness and no cervical motion tenderness. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Adenomyosis",
+            "B": "Appendicitis",
+            "C": "Ectopic pregnancy",
+            "D": "Leiomyoma",
+            "E": "Primary dysmenorrhea"
+        },
+        "original_answer": "Primary dysmenorrhea",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: The patient is a young woman with recurrent severe cramping pain, normal vital signs, unremarkable physical exam findings (no adnexal masses, tenderness, or cervical motion tenderness), and relatively normal menstrual flow (1 pad per day). The cyclic nature of pain and lack of pathological findings on examination are most consistent with primary dysmenorrhea, which is common in young women and presents with cramping pain without underlying pelvic pathology.\n\nConfidence: 85%"
+    },
+    {
+        "case_id": "CV_017",
+        "original_question": "A 38-year-old woman is brought to the emergency department because of three 1-hour episodes of severe, sharp, penetrating abdominal pain in the right upper quadrant. During these episodes, she has had nausea and vomiting. She has no diarrhea, dysuria, or hematuria and is asymptomatic between episodes. She has hypertension and hyperlipidemia. Seven years ago, she underwent resection of the terminal ileum because of severe Crohn's disease. She is 155 cm (5 ft 2 in) tall and weighs 79 kg (175 lb); BMI is 32 kg/m2. Her temperature is 36.9°C (98.5°F), pulse is 80/min, and blood pressure is 130/95 mm Hg. There is mild scleral icterus. Cardiopulmonary examination shows no abnormalities. The abdomen is soft, and there is tenderness to palpation of the right upper quadrant without guarding or rebound. Bowel sounds are normal. The stool is brown, and test for occult blood is negative. Laboratory studies show:\nHemoglobin 12.5 g/dL\nLeukocyte count 9,500 mm3\nPlatelet count 170,000 mm3\nSerum\nTotal bilirubin 4.1 mg/dL\nAlkaline phosphatase 348 U/L\nAST 187 U/L\nALT 260 U/L\nAbdominal ultrasonography shows a normal liver, a common bile duct caliber of 10 mm (normal < 6 mm) and a gallbladder with multiple gallstones and no wall thickening or pericholecystic fluid. Which of the following is the most likely cause of these findings?\"",
+        "original_options": {
+            "A": "Acute hepatitis A",
+            "B": "Choledocholithiasis",
+            "C": "Autoimmune hepatitis",
+            "D": "Cholecystitis",
+            "E": "Pancreatitis\n\""
+        },
+        "original_answer": "Choledocholithiasis",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: B\n\nReasoning: The patient presents with episodic right upper quadrant pain, elevated bilirubin (4.1 mg/dL) with scleral icterus, elevated alkaline phosphatase (348 U/L), transaminitis, and dilated common bile duct (10 mm) on ultrasound. These findings are classic for choledocholithiasis (common bile duct stones). Her history of terminal ileum resection increases gallstone risk due to impaired bile salt reabsorption. The absence of gallbladder wall thickening or pericholecystic fluid argues against cholecystitis.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_018",
+        "original_question": "A 1710-g (3.77-lb) male newborn is delivered to a 27-year-old woman at 33 weeks' gestation. Pregnancy was uncomplicated, but the mother had a cold and sore throat 2 months before delivery that resolved spontaneously. The newborn appears lethargic. He is at the 15th percentile for height and weight and at the 1st percentile for head circumference. Vital signs are within normal limits. There is jaundice of the skin and conjunctivae. Abdominal examination shows hepatosplenomegaly. A cranial ultrasound of the newborn shows periventricular calcifications. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Crigler-Najjar syndrome",
+            "B": "Congenital Zika virus infection",
+            "C": "Fetal alcohol syndrome",
+            "D": "Congenital toxoplasmosis",
+            "E": "Congenital CMV infection"
+        },
+        "original_answer": "Congenital CMV infection",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: The newborn presents with classic findings of congenital CMV infection: intrauterine growth restriction (IUGR), microcephaly (1st percentile head circumference), jaundice, hepatosplenomegaly, and periventricular calcifications on imaging. The mother's \"cold and sore throat\" 2 months before delivery likely represents primary CMV infection. Periventricular calcifications specifically point to CMV rather than toxoplasmosis (which causes diffuse intracranial calcifications).\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_019",
+        "original_question": "A 7-year-old girl comes in to the emergency department with her mother for swelling of her left periorbital region. Yesterday morning she woke up with a painful, warm, soft lump on her left eyelid. Eye movement does not worsen the pain. Physical examination shows redness and swelling of the upper left eyelid, involving the hair follicles. Upon palpation, the swelling drains purulent fluid. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Hordeolum",
+            "B": "Dacryocystitis",
+            "C": "Blepharitis",
+            "D": "Xanthelasma",
+            "E": "Chalazion"
+        },
+        "original_answer": "Hordeolum",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The presentation of a painful, warm, soft lump on the eyelid with purulent drainage upon palpation involving hair follicles is classic for a hordeolum (stye), which is an acute bacterial infection of the eyelid glands. A chalazion is typically painless and doesn't drain purulent fluid. Dacryocystitis involves the lacrimal sac, and blepharitis is chronic eyelid margin inflammation.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_020",
+        "original_question": "A 54-year-old man comes to the emergency department because of abdominal distension for the past 3 weeks. He also complains of generalized abdominal discomfort associated with nausea and decreased appetite. He was discharged from the hospital 3 months ago after an inguinal hernia repair with no reported complications. He has a history of type 2 diabetes mellitus, congestive heart failure, and untreated hepatitis C. His current medications include aspirin, atorvastatin, metoprolol, lisinopril, and metformin. His father has a history of alcoholic liver disease. He has smoked one pack of cigarettes daily for 30 years but quit 5 years ago. He drinks 3–4 beers daily. He appears cachectic. His vital signs are within normal limits. Examination shows a distended abdomen and shifting dullness. There is no abdominal tenderness or palpable masses. There is a well-healed surgical scar in the right lower quadrant. Examination of the heart and lung shows no abnormalities. He has 1+ bilateral lower extremity nonpitting edema. Diagnostic paracentesis is performed. Laboratory studies show:\nHemoglobin 10 g/dL\nLeukocyte count 14,000/mm3\nPlatelet count 152,000/mm3\nSerum\nTotal protein 5.8 g/dL\nAlbumin 3.5 g/dL\nAST 18 U/L\nALT 19 U/L\nTotal bilirubin 0.8 mg/dL\nHbA1c 8.1%\nPeritoneal fluid analysis\nColor Cloudy\nCell count 550/mm3 with lymphocytic predominance\nTotal protein 3.5 g/dL\nAlbumin 2.6 g/dL\nGlucose 60 mg/dL\nTriglycerides 360 mg/dL\nPeritoneal fluid Gram stain is negative. Culture and cytology results are pending. Which of the following is the most likely cause of this patient's symptoms?\"",
+        "original_options": {
+            "A": "Recent surgery",
+            "B": "Lymphoma",
+            "C": "Infection with gram-positive bacteria",
+            "D": "Nephrotic syndrome",
+            "E": "Acute decompensated heart failure"
+        },
+        "original_answer": "Lymphoma",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: A\n\nReasoning: The patient presents with chylous ascites (cloudy fluid with elevated triglycerides >200 mg/dL and lymphocytic predominance) 3 months post-inguinal hernia repair. The high peritoneal protein (3.5 g/dL), low SAAG (<1.1), and negative Gram stain point away from portal hypertension or infection. Recent abdominal/pelvic surgery is a known cause of chylous ascites due to lymphatic disruption.\n\nConfidence: 85%"
+    },
+    {
+        "case_id": "CV_021",
+        "original_question": "A 2-day old male newborn delivered vaginally at 36 weeks to a 29-year-old woman, gravida 3, para 2, has generalized convulsions lasting 2 minutes. Previous to the event, he had difficulty feeding and was lethargic. Pregnancy and delivery were uncomplicated. Apgar scores were 7 and 8 at 1 and 5 minutes, respectively. Pregnancy and delivery of the mother's first 2 children were also uncomplicated. Medications of the mother include folic acid and a multivitamin. The mother's immunizations are up-to-date. The infant appears icteric. His vital signs are within normal limits. The infant's weight and length are at the 5th percentile, and his head circumference at the 99th percentile for gestational age. There are several purpura of the skin. Ocular examination shows posterior uveitis. The patient does not pass his auditory screening tests. Cranial ultrasonography shows ventricular dilatation, as well as hyperechoic foci within the cortex, basal ganglia, and periventricular region. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Congenital toxoplasmosis",
+            "B": "Congenital rubella infection",
+            "C": "Congenital syphilis infection",
+            "D": "Congenital parvovirus infection",
+            "E": "Congenital varicella infection\n\""
+        },
+        "original_answer": "Congenital toxoplasmosis",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The classic triad of congenital toxoplasmosis includes chorioretinitis, hydrocephalus, and intracranial calcifications. This newborn presents with posterior uveitis (chorioretinitis), ventricular dilatation (hydrocephalus), hyperechoic foci in the brain (calcifications), along with seizures, jaundice, petechiae/purpura, and hearing loss - all consistent with congenital toxoplasmosis. The intrauterine growth restriction (low weight/length) and macrocephaly further support this diagnosis.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_022",
+        "original_question": "A 39-year-old woman is brought to the emergency department following a stab wound to the neck. Per the patient, she was walking her dog when she got robbed and was subsequently stabbed with a knife. Vitals are stable. Strength examination reveals 2/5 right-sided elbow flexion and extension, wrist extension, and finger motions. Babinski sign is upward-going on the right. There is decreased sensation to light touch and vibration on the patient's right side up to her shoulder. She also reports decreased sensation to pinprick and temperature on her left side, including her lower extremities, posterior forearm, and middle finger. The patient's right pupil is 2 mm smaller than the left with drooping of the right upper eyelid. Which of the following is the most likely cause of the patient’s presentation?",
+        "original_options": {
+            "A": "Anterior cord syndrome",
+            "B": "Central cord syndrome",
+            "C": "Hemisection injury",
+            "D": "Posterior cord syndrome",
+            "E": "Syringomyelia"
+        },
+        "original_answer": "Hemisection injury",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The patient presents with ipsilateral motor weakness (2/5 strength on right), ipsilateral loss of proprioception/vibration (right side), contralateral loss of pain/temperature sensation (left side), and ipsilateral Horner's syndrome (miosis, ptosis). This classic triad indicates Brown-Séquard syndrome (hemisection injury) from the stab wound, affecting the corticospinal tract, dorsal columns, and sympathetic fibers on one side while the spinothalamic tract decussates and causes contralateral findings.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_023",
+        "original_question": "A 65-year-old man is brought to the emergency department after coughing up copious amounts of blood-tinged sputum at his nursing home. He recently had an upper respiratory tract infection that was treated with antibiotics. He has a long-standing history of productive cough that has worsened since he had a stroke 3 years ago. He smoked a pack of cigarettes daily for 40 years until the stroke, after which he quit. The patient appears distressed and short of breath. His temperature is 38°C (100.4°F), pulse is 92/min, and blood pressure is 145/85 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 92%. Physical examination shows digital clubbing and cyanosis of the lips. Coarse crackles are heard in the thorax. An x-ray of the chest shows increased translucency and tram-track opacities in the right lower lung field. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Bronchiectasis",
+            "B": "Aspiration pneumonia",
+            "C": "Emphysema",
+            "D": "Pulmonary embolism",
+            "E": "Lung cancer\n\""
+        },
+        "original_answer": "Bronchiectasis",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The patient presents with chronic productive cough, recent hemoptysis, digital clubbing, and characteristic \"tram-track\" opacities on chest x-ray, which are pathognomonic for bronchiectasis. The history of stroke 3 years ago likely led to recurrent aspiration, predisposing to bronchiectasis development. The tram-track sign represents dilated, thickened bronchial walls.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_024",
+        "original_question": "A 13-year-old female comes to your office complaining of dry, scaling skin (FIgure A). She is particularly concerned about the appearance of her skin around her peers. She indicates that she did not start having problems until she was 5 years of age, after which her skin has progressively become drier and scalier. She has tried all types of over-the-counter moisturizers with no resolution. What is the most likely diagnosis?",
+        "original_options": {
+            "A": "Ichthyosis vulgaris",
+            "B": "Atopic dermatitis",
+            "C": "Psoriasis",
+            "D": "Miliaria",
+            "E": "Suborrheic dermatitis"
+        },
+        "original_answer": "Ichthyosis vulgaris",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The key features are onset at age 5 (not present at birth), progressive dry and scaling skin unresponsive to moisturizers, and the chronic nature. Ichthyosis vulgaris typically presents in early childhood (ages 3-5) with generalized dry, scaly skin that worsens over time. Atopic dermatitis would more likely present with pruritus and eczematous changes, while psoriasis typically shows well-demarcated plaques.\n\nConfidence: 85%"
+    },
+    {
+        "case_id": "CV_025",
+        "original_question": "A 29-year-old woman presents to the emergency department with a history of a fever that \"won't break.\" She has taken acetaminophen without relief. Upon obtaining a past medical history you learn that the patient is a prostitute who is homeless with a significant history of intravenous drug use and alcohol abuse. The patient uses barrier protection occasionally when engaging in intercourse. On physical exam you note a murmur heard along the left mid-sternal border. The pulmonary exam reveals minor bibasilar crackles. Examination of the digits is notable for linea melanonychia. The patient's upper limbs demonstrate many bruises and scars in the antecubital fossa. Her temperature is 103.5°F (39.5°C), blood pressure is 100/70 mmHg, pulse is 112/min, respirations are 18/min, and oxygen saturation is 93% on room air.\n\nThe patient's BMI is 16 kg/m^2. The patient is started on vancomycin and gentamicin and sent for echocardiography. Based on the results of echocardiography the patient is scheduled for surgery the next day.\n\nVegetations are removed from the tricuspid valve during the surgical procedure and vancomycin and gentamicin are continued over the next 5 days. On post-operative day five, the patient presents with bleeding from her gums, oozing from her surgical sites, and recurrent epitaxis. Lab value are obtained as seen below:\n\nSerum:\nNa+: 135 mEq/L\nCl-: 90 mEq/L\nK+: 4.4 mEq/L\nHCO3-: 23 mEq/L\nBUN: 20 mg/dL\nGlucose: 110 mg/dL\nCreatinine: 1.0 mg/dL\nCa2+: 10.1 mg/dL\nAST: 9 U/L\nALT: 9 U/L\n\nLeukocyte count and differential:\nLeukocyte count: 6,000 cells/mm^3\nLymphocytes: 20%\nMonocytes: 1%\nNeutrophils: 78%\nEosinophils: 1%\nBasophils: 0%\nPT: 27 seconds\naPTT: 84 seconds\nD-dimer: < 50 µg/L\n\nHemoglobin: 14 g/dL\nHematocrit: 40%\nPlatelet count: 150,000/mm^3\nMean corpuscular volume: 110 fL\nMean corpuscular hemoglobin concentration: 34 g/dL\nRDW: 14%\n\nWhich of the following is the most likely cause of this patient's current symptoms?",
+        "original_options": {
+            "A": "Antibiotic therapy",
+            "B": "Coagulation cascade activation",
+            "C": "Bacterial infection of the bloodstream",
+            "D": "Defect in von Willebrand factor",
+            "E": "Factor VIII deficiency"
+        },
+        "original_answer": "Antibiotic therapy",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The patient presents with bleeding manifestations (gum bleeding, surgical site oozing, epistaxis) on post-operative day 5 while on vancomycin and gentamicin. Her labs show prolonged PT (27s) and markedly prolonged aPTT (84s) with normal platelet count. This coagulation profile is consistent with vitamin K deficiency, which can be caused by prolonged antibiotic therapy that disrupts gut flora responsible for vitamin K synthesis. The patient's malnutrition (BMI 16) and antibiotic use make this the most likely diagnosis.\n\nConfidence: 85%"
+    },
+    {
+        "case_id": "CV_026",
+        "original_question": "A 27-year-old man presents to the emergency department with a chief concern of abdominal pain and diarrhea. The patient states that for the past 4 days he has experienced abdominal pain, diarrhea, weakness and a subjective fever. He also endorses a weight loss of 11 pounds during this time. The patient has a past medical history of celiac disease, constipation, and depression. His current medications include fish oil, a multivitamin, sodium docusate, and fluoxetine. His temperature is 98.5°F (36.9°C), blood pressure is 110/75 mmHg, pulse is 90/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for a young man in mild distress. Cardiac and pulmonary exams are within normal limits. Abdominal exam is notable for generalized tenderness and increased bowel sounds. Oral exam is notable for multiple shallow painful ulcers. Laboratory values are ordered as seen below:\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 8,000 cells/mm^3 with normal differential\nPlatelet count: 227,500/mm^3\n\nSerum:\nNa+: 141 mEq/L\nCl-: 101 mEq/L\nK+: 4.5 mEq/L\nHCO3-: 24 mEq/L\nBUN: 17 mg/dL\nGlucose: 82 mg/dL\nCreatinine: 1.0 mg/dL\nCa2+: 10.1 mg/dL\nAST: 12 U/L\nALT: 11 U/L\n\nA stool guaiac test is performed which returns positive. The patient is started on IV fluids and morphine. Which of the following best describes the most likely diagnosis?",
+        "original_options": {
+            "A": "ANCA positivity",
+            "B": "ASCA positivity",
+            "C": "Bleeding arteriovenous malformation",
+            "D": "Dilated vascular structure in the anal canal",
+            "E": "Mucosal disruption"
+        },
+        "original_answer": "ASCA positivity",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: B\n\nReasoning: This 27-year-old man presents with chronic diarrhea, abdominal pain, weight loss, and oral ulcers (aphthous ulcers), along with guaiac-positive stool suggesting GI bleeding. The combination of oral ulcers, abdominal symptoms, and inflammatory bowel features strongly suggests Crohn's disease, which is associated with ASCA (anti-Saccharomyces cerevisiae antibodies) positivity. ANCA positivity is more associated with ulcerative colitis.\n\nConfidence: 85%"
+    },
+    {
+        "case_id": "CV_027",
+        "original_question": "A 25-year-old woman comes to the physician because of sadness that started 6 weeks after her 9-month-old daughter was born. Since then, she has not returned to work. Her daughter usually sleeps through the night, but the patient still has difficulty staying asleep. She is easily distracted from normal daily tasks. She used to enjoy cooking, but only orders delivery or take-out now. She says that she always feels too exhausted to do so and does not feel hungry much anyway. The pregnancy of the patient's child was complicated by gestational diabetes. The child was born at 36-weeks' gestation and has had no medical issues. The patient has no contact with the child's father. She is not sexually active. She does not smoke, drink alcohol, or use illicit drugs. She is 157 cm (5 ft 1 in) tall and weighs 47 kg (105 lb); BMI is 20 kg/m2. Vital signs are within normal limits. She is alert and cooperative but makes little eye contact. Physical examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Disruptive mood dysregulation disorder",
+            "B": "Adjustment disorder",
+            "C": "Depression with peripartum-onset",
+            "D": "Major depressive disorder",
+            "E": "Normal behavior"
+        },
+        "original_answer": "Major depressive disorder",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: C\n\nReasoning: This patient presents with depressive symptoms (sadness, anhedonia, sleep disturbance, poor concentration, decreased appetite, fatigue) beginning 6 weeks postpartum, persisting beyond the typical \"baby blues\" period (which resolves within 2 weeks). The onset within 4 weeks to several months postpartum and meeting criteria for major depression qualifies this as major depressive disorder with peripartum onset (previously called postpartum depression).\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_028",
+        "original_question": "A 67-year-old man who was diagnosed with arthritis 16 years ago presents with right knee swelling and pain. His left knee was swollen a few weeks ago, but now with both joints affected, he has difficulty walking and feels frustrated. He also has back pain which makes it extremely difficult to move around and be active during the day. He says his pain significantly improves with rest. He also suffers from dandruff for which he uses special shampoos. Physical examination is notable for pitting of his nails. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Psoriatic arthritis",
+            "B": "Arthritis mutilans",
+            "C": "Rheumatoid arthritis",
+            "D": "Familial mediterranean fever",
+            "E": "Mixed connective tissue disease"
+        },
+        "original_answer": "Psoriatic arthritis",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The patient presents with asymmetric oligoarthritis (affecting different joints at different times), back pain that improves with rest (suggesting axial involvement), nail pitting, and dandruff (likely psoriasis of the scalp). These features are classic for psoriatic arthritis, which is a seronegative spondyloarthropathy associated with psoriasis and characteristic nail changes.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_029",
+        "original_question": "A 66-year-old man is brought to the emergency department because of weakness of his left leg for the past hour. He was unable to get out of bed that morning. His pants are soaked with urine. He has hypertension and coronary artery disease. Current medications include enalapril, carvedilol, aspirin, and simvastatin. His temperature is 37°C (98.6F), pulse is 98/min, and blood pressure is 160/90 mm Hg. Examination shows equal pupils that are reactive to light. Muscle strength is 2/5 in the left lower extremity. Plantar reflex shows an extensor response on the left. Sensation is decreased in the left lower extremity. On mental status examination, he is oriented to time, place, and person and has a flat affect. When asked to count backwards from 20, he stops after counting to 17. When asked to name 10 words beginning with the letter “d,” he stops after naming two words. Fundoscopy shows no abnormalities. Which of the following is the most likely cause of this patient's symptoms?",
+        "original_options": {
+            "A": "Left middle cerebral artery occlusion",
+            "B": "Right anterior cerebral artery occlusion",
+            "C": "Right posterior cerebral artery occlusion",
+            "D": "Left anterior cerebral artery occlusion",
+            "E": "Hypertensive encephalopathy"
+        },
+        "original_answer": "Right anterior cerebral artery occlusion",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: B\n\nReasoning: The patient presents with left lower extremity weakness, urinary incontinence, and executive dysfunction (difficulty with sequential tasks and word generation), suggesting frontal lobe involvement. The anterior cerebral artery (ACA) supplies the medial frontal lobe and medial motor/sensory cortex controlling the lower extremity. Since symptoms are on the left side, the lesion must be in the right hemisphere (contralateral control). This constellation of findings is consistent with right ACA occlusion.\n\nConfidence: 92%"
+    },
+    {
+        "case_id": "CV_030",
+        "original_question": "A previously healthy 30-year-old woman comes to the physician because of nervousness and difficulty sleeping over the past 4 weeks. She has difficulty falling asleep at night because she cannot stop worrying about her relationship and her future. Three months ago, her new boyfriend moved in with her. Before this relationship, she had been single for 13 years. She reports that her boyfriend does not keep things in order in the way she was used to. Sometimes, he puts his dirty dishes in the kitchen sink instead of putting them in the dishwasher directly. He refuses to add any groceries to the shopping list when they are used up. He has also suggested several times that they have dinner at a restaurant instead of eating at home, which enrages her because she likes to plan each dinner of the week and buy the required groceries beforehand. The patient says that she really loves her boyfriend but that she will never be able to tolerate his “flaws.” Vital signs are within normal limits. Physical examination shows no abnormalities. On mental status examination, she is cooperative but appears distressed. Her affect has little intensity or range. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Major depressive disorder",
+            "B": "Generalized anxiety disorder",
+            "C": "Obsessive-compulsive disorder",
+            "D": "Obsessive-compulsive personality disorder",
+            "E": "Schizoid personality disorder"
+        },
+        "original_answer": "Obsessive-compulsive personality disorder",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The patient exhibits a pervasive pattern of preoccupation with orderliness, perfectionism, and control (rigid routines for meals, specific ways dishes must be handled, shopping list requirements) that interferes with her relationship and causes distress. Her inability to tolerate her boyfriend's minor deviations from her standards, combined with restricted emotional range (affect with little intensity), are characteristic of obsessive-compulsive personality disorder (OCPD), not OCD which involves true obsessions and compulsions.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_031",
+        "original_question": "A 30-year-old male presents to the emergency department with a complaint of abdominal pain. The patient states he was at a barbecue around noon. Lunch was arranged as a buffet without refrigeration. Within 2 to 3 hours, he had abdominal pain with 3 episodes of watery diarrhea. On exam, vital signs are T 99.1, HR 103, BP 110/55, RR 14. Abdominal exam is significant for pain to deep palpation without any rebounding or guarding. There is no blood on fecal occult testing (FOBT). What is the most likely cause of this patient's presentation?",
+        "original_options": {
+            "A": "Salmonella enteritidis",
+            "B": "Listeria monocytogenes",
+            "C": "Staphylococcus aureus",
+            "D": "Campylobacter jejuni",
+            "E": "Vibrio cholerae"
+        },
+        "original_answer": "Staphylococcus aureus",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The key features are the rapid onset (2-3 hours) after eating food left unrefrigerated at a buffet, watery diarrhea, and absence of fever or blood in stool. This presentation is classic for preformed toxin-mediated food poisoning. Staphylococcus aureus produces an enterotoxin that causes symptoms within 1-6 hours of ingestion, matching this timeline perfectly. Other organisms listed require longer incubation periods (Salmonella 6-72 hours, Campylobacter 2-5 days).\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_032",
+        "original_question": "An obese 42-year-old female presents to her primary care physician with a complaint of left knee pain for the past 3 months. She describes the pain as affecting the inside part of the knee as well as the front of her knee, below the kneecap. She denies any inciting injury or trauma to the knee but reports that the pain is worse when she is climbing up stairs or rising from a chair. Physical examination is significant for localized tenderness to palpation over the left anteromedial proximal tibia, 6 cm inferior to the joint line. There is no joint effusion noted. Valgus stress testing is negative for any pain or instability of the knee joint. Radiographs of the left knee are obtained and reveal only mild arthritis, without evidence of any fractures or bony lesions. Which of the following is the most likely diagnosis in this patient?",
+        "original_options": {
+            "A": "Stress fracture of proximal tibia",
+            "B": "Medial meniscus tear",
+            "C": "Medical collateral ligament (MCL) sprain",
+            "D": "Pes anserine bursitis",
+            "E": "Patellar tendonitis"
+        },
+        "original_answer": "Pes anserine bursitis",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The key findings are anteromedial proximal tibial tenderness 6 cm below the joint line (classic location for pes anserine bursa), pain with stairs/rising from chair, obesity as a risk factor, and negative valgus stress test ruling out MCL injury. The location is too distal for meniscal pathology and radiographs show no fracture. Patellar tendonitis would present at the patellar tendon insertion, not the anteromedial tibia.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_033",
+        "original_question": "A 21-year-old woman presents to the women’s clinic with chronic pelvic pain, especially during sexual intercourse. She also reports new onset yellowish vaginal discharge. She has no significant past medical history. She does not take contraceptive pills as she has had a copper intrauterine device placed. She smokes 2–3 cigarettes every day. She drinks beer on weekends. She admits to being sexually active with over 10 partners since the age of 14. Her blood pressure is 118/66 mm Hg, the heart rate is 68/min, the respiratory rate is 12/min and the temperature is 39.1°C (102.3°F). On physical examination she appears uncomfortable but alert and oriented. Her heart and lung examinations are within normal limits. Bimanual exam reveals a tender adnexa and uterus with cervical motion tenderness. Whiff test is negative and vaginal pH is greater than 4.5. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Ectopic pregnancy",
+            "B": "Appendicitis",
+            "C": "Bacterial vaginosis",
+            "D": "Urinary tract infection",
+            "E": "Pelvic inflammatory disease"
+        },
+        "original_answer": "Pelvic inflammatory disease",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: The patient presents with classic findings for pelvic inflammatory disease (PID): chronic pelvic pain, dyspareunia, fever (39.1°C), cervical motion tenderness, adnexal tenderness, and purulent vaginal discharge. Her multiple sexual partners and IUD placement are risk factors. The negative whiff test rules out bacterial vaginosis, and elevated pH with purulent discharge suggests ascending infection rather than simple vaginosis or UTI.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_034",
+        "original_question": "A 10-year-old boy is brought to the pediatric clinic because of persistent sinus infections. For the past 5 years, he has had multiple sinus and upper respiratory infections. He has also had recurrent diarrhea throughout childhood. His temperature is 37.0°C (98.6°F), the heart rate is 90/min, the respirations are 16/min, and the blood pressure is 125/75 mm Hg. Laboratory studies show abnormally low levels of one immunoglobulin isotype but normal levels of others. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Chediak-Higashi syndrome",
+            "B": "Common variable immunodeficiency",
+            "C": "Drug-induced IgA deficiency",
+            "D": "Selective IgA deficiency",
+            "E": "Transient hypogammaglobulinemia of infancy"
+        },
+        "original_answer": "Selective IgA deficiency",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: A 10-year-old with recurrent sinopulmonary infections and chronic diarrhea, showing selectively low levels of one immunoglobulin isotype while others remain normal, is classic for selective IgA deficiency. This is the most common primary immunodeficiency, presenting with mucosal infections (sinuses, respiratory tract, GI tract). Common variable immunodeficiency typically shows low levels of multiple immunoglobulin isotypes, and transient hypogammaglobulinemia resolves by age 2-5 years.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_035",
+        "original_question": "A 40-year-old sailor is brought to a military treatment facility 20 minutes after being involved in a navy ship collision. He appears ill. He reports a sensation that he needs to urinate but is unable to void. His pulse is 140/min, respirations are 28/min, and blood pressure is 104/70 mm Hg. Pelvic examination shows ecchymoses over the scrotum and perineum. There is tenderness over the suprapubic region and blood at the urethral meatus. Digital rectal examination shows a high-riding prostate. Abdominal ultrasound shows a moderately distended bladder. X-rays of the pelvis show fractures of all four pubic rami. Which of the following is the most likely cause of this patient's symptoms?",
+        "original_options": {
+            "A": "Tearing of the anterior urethra",
+            "B": "Rupture of the corpus cavernosum",
+            "C": "Rupture of the bladder",
+            "D": "Tearing of the posterior urethra",
+            "E": "Tearing of the ureter"
+        },
+        "original_answer": "Tearing of the posterior urethra",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The patient presents with a pelvic fracture (all four pubic rami), blood at the urethral meatus, inability to void despite urge, high-riding prostate on DRE, and perineal/scrotal ecchymoses. These classic findings indicate posterior urethral injury, which commonly occurs with pelvic fractures due to shearing forces at the prostatomembranous junction. The high-riding prostate suggests disruption of the urethra with superior displacement of the prostate.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_036",
+        "original_question": "A 3-month-old boy is brought to the physician by his parents for the evaluation of a rash on his scalp and forehead. The parents report that the rash has been present for several weeks. They state that the rash is sometimes red and scaly, especially when it is cold. The patient was born at 36 weeks' gestation and has generally been healthy since. His father has psoriasis. The patient appears comfortable. Examination shows several erythematous patches on the scalp, forehead, and along the hairline. Some patches are covered by greasy yellow scales. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Atopic dermatitis",
+            "B": "Erythroderma",
+            "C": "Seborrheic keratosis",
+            "D": "Allergic contact dermatitis",
+            "E": "Seborrheic dermatitis"
+        },
+        "original_answer": "Seborrheic dermatitis",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: This 3-month-old presents with erythematous patches with greasy yellow scales on the scalp, forehead, and hairline—classic features of infantile seborrheic dermatitis (cradle cap). This condition typically appears in the first few months of life, involves sebum-rich areas, and presents with the characteristic greasy, yellowish scales. The patient appears comfortable, distinguishing it from atopic dermatitis which is typically pruritic.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_037",
+        "original_question": "A 4-year-old boy who otherwise has no significant past medical history presents to the pediatric clinic accompanied by his father for a 2-day history of high fever, sore throat, nausea, vomiting, and bloody diarrhea. The patient’s father endorses that these symptoms began approximately 3 weeks after the family got a new dog. His father also states that several other children at the patient’s preschool have been sick with similar symptoms. He denies any other recent changes to his diet or lifestyle. The patient's blood pressure is 123/81 mm Hg, pulse is 91/min, respiratory rate is 15/min, and temperature is 39.2°C (102.5°F). Which of the following is the most likely cause for this patient’s presentation?",
+        "original_options": {
+            "A": "The new dog",
+            "B": "A recent antibiotic prescription",
+            "C": "Reheated fried rice",
+            "D": "Exposure to bacteria at school",
+            "E": "Failure to appropriately immunize the patient"
+        },
+        "original_answer": "Exposure to bacteria at school",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The patient presents with fever, sore throat, nausea, vomiting, and bloody diarrhea following exposure to other sick children at preschool with similar symptoms. This constellation of symptoms with a clear epidemiological link to an outbreak at school strongly suggests a bacterial infection (likely Shigella or enterohemorrhagic E. coli) transmitted through the fecal-oral route in a daycare/preschool setting.\n\nConfidence: 85%"
+    },
+    {
+        "case_id": "CV_038",
+        "original_question": "A 1-day-old infant born at full term by uncomplicated spontaneous vaginal delivery is noted to have cyanosis of the oral mucosa. The baby otherwise appears comfortable. On examination, his respiratory rate is 40/min and pulse oximetry is 80%. His left thumb is displaced and hypoplastic. A right ventricular lift is palpated, S1 is normal, S2 is single, and a harsh 3/6 systolic ejection murmur is heard at the left upper sternal border. Chest X-ray is shown. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Transposition of great vessels",
+            "B": "Tetralogy of Fallot",
+            "C": "Ventricular septal defect",
+            "D": "Transient tachypnoea of the newborn",
+            "E": "Pneumothorax"
+        },
+        "original_answer": "Tetralogy of Fallot",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: B\n\nReasoning: The presentation of central cyanosis with single S2, harsh systolic ejection murmur at left upper sternal border, and right ventricular lift is classic for Tetralogy of Fallot. The hypoplastic/displaced thumb suggests an associated congenital anomaly, which can occur with TOF. The low oxygen saturation (80%) and \"boot-shaped\" heart on chest X-ray (though not shown) support this diagnosis.\n\nConfidence: 92%"
+    },
+    {
+        "case_id": "CV_039",
+        "original_question": "A 41-year-old woman presents with shortness of breath that is worse when she lies on her left side. About 10 days ago, she had an episode of unexplained loss of consciousness. Past medical history is negative and family history is irrelevant. Clinical examination shows a diastolic murmur, which is prominent when she lies on her left side. Jugular venous distention is present, and chest examination reveals fine crackles that do not clear with coughing. Chest X-ray shows pulmonary congestion, and 2-dimensional echocardiogram shows a mass in the left atrium attached to the atrial septum. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Rheumatic fever",
+            "B": "Innocent murmur",
+            "C": "Subacute infective endocarditis",
+            "D": "Non-bacterial thrombotic endocarditis",
+            "E": "Atrial myxoma"
+        },
+        "original_answer": "Atrial myxoma",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: The presentation of a mobile left atrial mass attached to the atrial septum causing positional symptoms (worse when lying on left side), syncope, diastolic murmur, and signs of heart failure is pathognomonic for atrial myxoma. The mass obstructs mitral valve flow in certain positions, explaining the positional dyspnea and murmur. This is the classic \"tumor plop\" presentation.\n\nConfidence: 98%"
+    },
+    {
+        "case_id": "CV_040",
+        "original_question": "A 45-year-old man comes to the physician because of persistent reddening of the face for the past 3 months. During this period he also had difficulty concentrating at work and experienced generalized fatigue. He has fallen asleep multiple times during important meetings. His mother has rheumatoid arthritis. He has hypertension and asthma. He has smoked one pack of cigarettes daily for 28 years and drinks one alcoholic beverage per day. Medications include labetalol and a salbutamol inhaler. He is 170 cm (5 ft 7 in) tall and weighs 88 kg (194 lb); BMI is 30.4 kg/m2. His temperature is 37.1°C (98.8°F), pulse is 88/min, respirations are 14/min, and blood pressure is 145/85 mm Hg. Physical examination shows erythema of the face that is especially pronounced around the cheeks, nose, and ears. His neck appears short and wide. The remainder of the examination shows no abnormalities. Which of the following is the most likely cause of this patient's facial discoloration?",
+        "original_options": {
+            "A": "Increased EPO production",
+            "B": "Increased serotonin levels",
+            "C": "Delayed-type hypersensitivity",
+            "D": "Antibody-mediated vasculopathy",
+            "E": "Increased cortisol levels"
+        },
+        "original_answer": "Increased EPO production",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: This patient presents with facial erythema (plethora), obesity (BMI 30.4), hypertension, daytime sleepiness, and a short thick neck—classic features of obstructive sleep apnea (OSA). Chronic intermittent hypoxia from OSA stimulates erythropoietin (EPO) production, leading to secondary polycythemia and facial plethora. The constellation of symptoms strongly suggests OSA with resultant increased EPO production causing erythrocytosis.\n\nConfidence: 92%"
+    },
+    {
+        "case_id": "CV_041",
+        "original_question": "A 58-year-old man comes to the physician because of intermittent throbbing headaches over the past year. The headaches are worse when he wakes up and are not accompanied by other symptoms. The patient also reports trouble concentrating on daily tasks at work. His wife has been complaining lately about his snoring during sleep, which he attributes to his chronic sinusitis. He has a history of hypertension and an allergy to dust mites. He has smoked a pack of cigarettes daily for 14 years. His pulse is 72/min and blood pressure is 150/95 mm Hg. He is 178 cm (5 ft 10 in) tall and weighs 120 kg (265 lb); BMI is 37.9 kg/m2. Neurological and cutaneous examination shows no abnormalities. Which of the following is the most likely cause of this patient's hypertension?",
+        "original_options": {
+            "A": "Low circulating free thyroxine levels",
+            "B": "Nocturnal upper airway obstruction",
+            "C": "Hypophyseal neoplasm",
+            "D": "Hypersecretion of aldosterone",
+            "E": "Low synaptic serotonin levels"
+        },
+        "original_answer": "Nocturnal upper airway obstruction",
+        "original_answer_idx": "B",
+        "claude_response": "Answer: B\n\nReasoning: This obese patient (BMI 37.9) presents with morning headaches, daytime concentration difficulties, snoring, and resistant hypertension—classic features of obstructive sleep apnea (OSA). OSA causes nocturnal upper airway obstruction leading to intermittent hypoxemia, sympathetic activation, and secondary hypertension. His obesity is a major risk factor for OSA.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_042",
+        "original_question": "A 61-year-old man comes to the physician for shortness of breath and chest discomfort that is becoming progressively worse. He has had increasing problems exerting himself for the past 5 years. He is now unable to walk more than 50 m on level terrain without stopping and mostly rests at home. He has smoked 1–2 packs of cigarettes daily for 40 years. He appears distressed. His pulse is 85/min, blood pressure is 140/80 mm Hg, and respirations are 25/min. Physical examination shows a plethoric face and distended jugular veins. Bilateral wheezing is heard on auscultation of the lungs. There is yellow discoloration of the fingers on the right hand and 2+ lower extremity edema. Which of the following is the most likely cause of this patient's symptoms?",
+        "original_options": {
+            "A": "Elevated pulmonary artery pressure",
+            "B": "Increased left atrial pressure",
+            "C": "Chronic respiratory acidosis",
+            "D": "Coronary plaque deposits",
+            "E": "Decreased intrathoracic gas volume"
+        },
+        "original_answer": "Elevated pulmonary artery pressure",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: This patient has a 40-pack-year smoking history with progressive dyspnea, bilateral wheezing, plethoric face, distended jugular veins, and lower extremity edema—classic signs of cor pulmonale secondary to chronic obstructive pulmonary disease (COPD). Chronic hypoxemia from COPD causes pulmonary vasoconstriction, leading to elevated pulmonary artery pressure, right ventricular strain, and eventually right heart failure with systemic venous congestion.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_043",
+        "original_question": "A 23-year-old G1 at 10 weeks gestation based on her last menstrual period is brought to the emergency department by her husband due to sudden vaginal bleeding. She says that she has mild lower abdominal cramps and is feeling dizzy and weak. Her blood pressure is 100/60 mm Hg, the pulse is 100/min, and the respiration rate is 15/min. She says that she has had light spotting over the last 3 days, but today the bleeding increased markedly and she also noticed the passage of clots. She says that she has changed three pads since the morning. She has also noticed that the nausea she was experiencing over the past few days has subsided. The physician examines her and notes that the cervical os is open and blood is pooling in the vagina. Products of conception can be visualized in the os. The patient is prepared for a suction curettage. Which of the following is the most likely cause for the pregnancy loss?",
+        "original_options": {
+            "A": "Sexually transmitted disease (STD)",
+            "B": "Rh immunization",
+            "C": "Antiphospholipid syndrome",
+            "D": "Chromosomal abnormalities",
+            "E": "Trauma"
+        },
+        "original_answer": "Chromosomal abnormalities",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The patient presents with a spontaneous abortion (miscarriage) at 10 weeks gestation with an open cervical os and products of conception visible. The most common cause of first-trimester pregnancy loss is chromosomal abnormalities, accounting for approximately 50-60% of early miscarriages. There is no history or evidence suggesting STD, Rh immunization (occurs in subsequent pregnancies), antiphospholipid syndrome (typically recurrent losses), or trauma.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_044",
+        "original_question": "A 4-year-old boy is brought to the pediatrician with fever, diarrhea and bilateral red eye for 7 days. His parents noted that he has never had an episode of diarrhea this prolonged, but several other children at daycare had been ill. His immunization history is up to date. His vitals are normal except for a temperature of 37.5°C (99°F). A physical exam is significant for mild dehydration, preauricular adenopathy, and bilateral conjunctival injection with watery discharge. What is the most likely diagnosis?\n ",
+        "original_options": {
+            "A": "Rotavirus infection",
+            "B": "C. difficile colitis",
+            "C": "Adenovirus infection",
+            "D": "Norovirus infection",
+            "E": "Vibrio parahaemolyticus infection"
+        },
+        "original_answer": "Adenovirus infection",
+        "original_answer_idx": "C",
+        "claude_response": "Answer: C\n\nReasoning: The key features are prolonged fever, diarrhea, and bilateral conjunctivitis with preauricular adenopathy in a child with daycare exposure. This classic triad points to adenovirus infection, which commonly causes pharyngoconjunctival fever with gastrointestinal symptoms. The preauricular adenopathy and watery conjunctival discharge are particularly characteristic of adenoviral conjunctivitis.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_045",
+        "original_question": "A 34-year-old woman comes to the physician because of a 3-month history of pain in her right thumb and wrist that radiates to her elbow. It is worse when she holds her infant son and improves with the use of an ice pack. Six months ago, she slipped on a wet floor and fell on her right outstretched hand. Her mother takes methotrexate for chronic joint pain. The patient takes ibuprofen as needed for her current symptoms. Examination of the right hand shows tenderness over the radial styloid with swelling but no redness. There is no crepitus. Grasping her right thumb and exerting longitudinal traction toward the ulnar side elicits pain. Range of motion of the finger joints is normal. There is no swelling, redness, or tenderness of any other joints. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "De Quervain tenosynovitis",
+            "B": "Swan neck deformity",
+            "C": "Mallet finger",
+            "D": "Carpal tunnel syndrome",
+            "E": "Stenosing tenosynovitis\n\""
+        },
+        "original_answer": "De Quervain tenosynovitis",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The patient presents with pain over the radial styloid that worsens with holding her infant and radiates to the elbow. The positive Finkelstein test (grasping thumb and applying ulnar deviation causing pain) is pathognomonic for De Quervain tenosynovitis, which involves inflammation of the abductor pollicis longus and extensor pollicis brevis tendons. This condition commonly occurs in new mothers due to repetitive lifting motions.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_046",
+        "original_question": "A 28-year-old male presents with a recent onset of upsetting dreams, anxiety, and disturbing flashbacks. The patient reports that he returned from active duty in Iraq 3 months ago and was adjusting to life back at home until about 7 weeks ago when he began having intense fear of loud noises and seeing sudden flashbacks to bombing attacks he endured during his time in Iraq. He had to take a leave from his army instructor duties as he was not able to handle the familiar settings of practice shooting ranges and sudden loud explosions during battalion training. After refusing to leave his house, he was finally persuaded by his wife to visit your clinic. What is the most likely diagnosis?",
+        "original_options": {
+            "A": "Acute stress disorder",
+            "B": "Performance anxiety",
+            "C": "Schizophrenia",
+            "D": "Posttraumatic stress disorder",
+            "E": "Panic attack"
+        },
+        "original_answer": "Posttraumatic stress disorder",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: The patient presents with flashbacks, nightmares, anxiety, and hyperarousal (fear of loud noises) related to combat trauma that began 7 weeks ago, which is more than one month after the traumatic event. These symptoms are causing significant impairment (unable to work, avoiding situations). This duration (>1 month post-trauma) distinguishes PTSD from acute stress disorder (which occurs within 3 days to 1 month post-trauma).\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_047",
+        "original_question": "A 3-year-old boy is brought to the physician by his mother for the evaluation of delay in attaining developmental milestones. He could sit upright by 14 months and has not been able to walk without support. He can build a tower of 3 blocks and cannot use utensils to feed himself. He speaks in unclear 2-word phrases and cannot draw a circle yet. His mother has noticed him hitting his head against the wall on multiple occasions. He is at 20th percentile for height and at 50th percentile for weight. Vitals signs are within normal limits. Examination shows multiple lacerations of his lips and tongue. There are multiple healing wounds over his fingers. Neurological examination shows increased muscle tone in all extremities. Laboratory studies show:\nHemoglobin 10.1 g/dL\nMean corpuscular volume 103 μm3\nSerum\nNa+ 142 mEq/L\nCl- 101 mEq/:\nK+ 4.1 mEq/L\nCreatinine 1.6 mg/dL\nUric acid 12.3 mg/dL\nWhich of the following is the most likely cause of this patient's findings?\"",
+        "original_options": {
+            "A": "FMR1 gene mutation",
+            "B": "MECP2 gene mutation",
+            "C": "Branched-chain alpha-ketoacid dehydrogenase complex deficiency",
+            "D": "Hypoxanthine-guanine phosphoribosyltransferase deficiency",
+            "E": "Microdeletion of paternal chromosome 15"
+        },
+        "original_answer": "Hypoxanthine-guanine phosphoribosyltransferase deficiency",
+        "original_answer_idx": "D",
+        "claude_response": "Answer: D\n\nReasoning: This patient presents with developmental delay, self-mutilatory behavior (lip/tongue/finger biting), spasticity, and laboratory findings of hyperuricemia (12.3 mg/dL) with elevated creatinine. This constellation is classic for Lesch-Nyhan syndrome, caused by deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT), leading to purine metabolism dysfunction and uric acid overproduction. The self-injurious behavior and hyperuricemia are pathognomonic features.\n\nConfidence: 98%"
+    },
+    {
+        "case_id": "CV_048",
+        "original_question": "A 93-year-old woman is brought to the physician because of a purple area on her right arm that has been growing for one month. She has not had any pain or itching of the area. She has hyperlipidemia, a history of basal cell carcinoma treated with Mohs surgery 2 years ago, and a history of invasive ductal carcinoma of the right breast treated with radical mastectomy 57 years ago. She has had chronic lymphedema of the right upper extremity since the mastectomy. Her only medication is simvastatin. She lives in an assisted living facility. She is content with her living arrangement but feels guilty that she is dependent on others. Vital signs are within normal limits. Physical examination shows extensive edema of the right arm. Skin exam of the proximal upper right extremity shows three coalescing, 0.5–1.0 cm heterogeneous, purple-colored plaques with associated ulceration. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Lymphangiosarcoma",
+            "B": "Cellulitis",
+            "C": "Thrombophlebitis",
+            "D": "Lichen planus",
+            "E": "Kaposi sarcoma"
+        },
+        "original_answer": "Lymphangiosarcoma",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: This patient presents with purple plaques and ulceration on her right arm in the context of chronic lymphedema following radical mastectomy 57 years ago. This clinical presentation is classic for Stewart-Treves syndrome, a rare angiosarcoma (lymphangiosarcoma) that develops in chronically lymphedematous limbs, typically years after mastectomy with axillary lymph node dissection.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_049",
+        "original_question": "A 55-year-old man is brought to the physician because of inappropriate behavior for the past 6 months. He has been making inappropriate comments and jokes while talking to friends and family members. He was arrested 3 weeks ago while trying to kiss strangers on the street. He has no interest in talking to his daughter or playing with his grandchildren. During this period, he has developed a strong desire for chocolate pudding and potato chips and has gained 10 kg (22 lb). He appears unkempt. Vital signs are within normal limits. Physical examination is unremarkable. Mental status examination shows apathy and a blunt affect. He avoids answering questions and instead comments on the individuals he saw in the waiting room. Mini-Mental State Examination score is 28/30. A complete blood count and serum concentrations of glucose, creatine, and electrolytes are within the reference range. Which of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Parkinson disease",
+            "B": "Amyotrophic lateral sclerosis",
+            "C": "Normal pressure hydrocephalus",
+            "D": "Wilson disease",
+            "E": "Frontotemporal dementia"
+        },
+        "original_answer": "Frontotemporal dementia",
+        "original_answer_idx": "E",
+        "claude_response": "Answer: E\n\nReasoning: This patient presents with behavioral disinhibition (inappropriate comments, kissing strangers), apathy, changes in eating behavior with specific food cravings, and personality changes while maintaining relatively preserved cognition (MMSE 28/30). These features are classic for frontotemporal dementia, specifically the behavioral variant, which typically affects the frontal and temporal lobes leading to early personality and behavioral changes rather than memory impairment.\n\nConfidence: 95%"
+    },
+    {
+        "case_id": "CV_050",
+        "original_question": "A 32-year-old Caucasian man presents to the physician because of the swelling and discomfort of the right testis for 3 weeks. There is no history of trauma, fever, or night sweats. He had surgery for an undescended right testis when he was 6 months old. There is no history of liver disease or hypogonadism. He has fathered 2 children. He takes no medications and denies any illicit drug use. The vital signs are within normal limits. Palpation of the scrotum reveals a firm nontender mass that cannot be separated from the right testis. Examination of the left testis shows no abnormalities. There is no supraclavicular or inguinal lymphadenopathy. Gynecomastia is present. The rest of the physical examination is unremarkable. Ultrasound shows an enlarged right testicle with a hypoechoic mass replacing a large portion of the normal architecture. The left testis is normal. The laboratory test results are as follows:\nHCG Elevated\nAFP Elevated\nLDH Normal\nWhich of the following is the most likely diagnosis?",
+        "original_options": {
+            "A": "Embryonal carcinoma",
+            "B": "Leydig cell tumor",
+            "C": "Lymphoma",
+            "D": "Metastasis to testis",
+            "E": "Seminomatous germ cell tumor"
+        },
+        "original_answer": "Embryonal carcinoma",
+        "original_answer_idx": "A",
+        "claude_response": "Answer: A\n\nReasoning: The presentation of a testicular mass in a patient with history of cryptorchidism (major risk factor), along with both elevated HCG and AFP, is most consistent with embryonal carcinoma or mixed germ cell tumor. Seminoma typically shows elevated HCG but not AFP. The presence of gynecomastia (from HCG elevation) and both tumor markers being elevated points to embryonal carcinoma as the most likely non-seminomatous germ cell tumor.\n\nConfidence: 85%"
+    }
+]
