@@ -1,6 +1,6 @@
 # LLM Clinical Diagnostic Capability Analysis
 
-A lightweight evaluation framework to assess the diagnostic reasoning quality of large language models in clinical contexts.
+A lightweight evaluation framework to assess the diagnostic reasoning quality of large language models in clinical contexts. Full analysis and report detailing methods and results can be found [here.](https://github.com/johndrab/LLM-clinical-diagnostic-capability-analysis/blob/main/LLM%20Clinical%20Diagnostic%20Capability%20Analysis.pdf)
 
 ## Overview
 
